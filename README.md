@@ -27,7 +27,7 @@ Finally we deployed the model on a Raspberry Pi 4 which can be used by anyone by
 
  **Demo Video Link** - https://youtu.be/DfZ_6rkmFas
 
-** Devpost Link** - https://devpost.com/software/gesture-controlled-media-player
+**Devpost Link** - https://devpost.com/software/gesture-controlled-media-player
 
 
 ## Project Created by 
