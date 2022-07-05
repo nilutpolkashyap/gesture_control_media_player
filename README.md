@@ -16,12 +16,12 @@ Finally we deployed the model on a Raspberry Pi 4 which can be used by anyone by
 ## Results 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nilutpolkashyap/gesture_control_media_player/main/images/demo1.png" alt="harware image" width="90%"/>
+  <img src="https://raw.githubusercontent.com/nilutpolkashyap/gesture_control_media_player/main/images/demo1.png" alt="demo1 image" width="90%"/>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nilutpolkashyap/gesture_control_media_player/main/images/demo2.png" alt="harware image" width="90%"/>
+  <img src="https://raw.githubusercontent.com/nilutpolkashyap/gesture_control_media_player/main/images/demo2.png" alt="demo2 image" width="90%"/>
 </div>
 <br>
 
